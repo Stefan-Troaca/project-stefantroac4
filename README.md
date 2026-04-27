@@ -2,7 +2,6 @@
 
 | | |
 |-|-|
-|`Author` | Your full name
 |`Author` | TROACA Stefan-Mihail
 
 ## Description
