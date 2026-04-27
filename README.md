@@ -1,5 +1,4 @@
-# Your Project Name
-Visualiseur audio
+# Visualiseur audio
 
 | | |
 |-|-|
